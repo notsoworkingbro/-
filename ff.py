@@ -9,4 +9,5 @@ class fibo():
 n = 10
 i = 1
 
-while i <== n:
+while i <= n:
+    pass
